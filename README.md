@@ -1,4 +1,4 @@
-# ms-celeb-1M_preprocessing
+# preprocessing\_for\_ms-celeb-1M
 本项目功能是对“ms-celeb-1M”数据集进行预处理。
 
 ## ms\_cele\_1m_tsv2jpg.py
