@@ -1,4 +1,4 @@
-[](https://github.com/StevenWHU/MyPostImage/blob/master/preprocessing_for_ms-celeb-1M/1.jpg?raw=true)
+[MS-Celeb-1M](https://github.com/StevenWHU/MyPostImage/blob/master/preprocessing_for_ms-celeb-1M/1.jpg?raw=true)
 # preprocessing\_for\_ms-celeb-1M
 本项目功能是对“ms-celeb-1M”数据集进行预处理。
 
