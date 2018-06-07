@@ -1,5 +1,5 @@
 # ms-celeb-1M_preprocessing
-本项目是对“ms-celeb-1M”数据集进行预处理。
+本项目功能是对“ms-celeb-1M”数据集进行预处理。
 
 ## ms\_cele\_1m_tsv2jpg.py
 该文件读取tsv格式的文件，并将其转换为可以供机器学习模型输入的jpg格式图片文件。
